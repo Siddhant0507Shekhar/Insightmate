@@ -51,7 +51,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Created by me
     'chatgpt_api',
-    'corsheaders',
     'rest_framework',
     'rest_framework_simplejwt.token_blacklist',
 ]
@@ -74,7 +73,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     # Added by me
-    # 'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'Chatbot_backend.urls'
