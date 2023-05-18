@@ -19,26 +19,26 @@ To run Insightmate locally, follow these steps:
 
 ##### Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/Siddhant0507Shekhar/Insightmate
+```
+
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd Insightmate
+```
 #### Install the required dependencies for the frontend:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-
+```
 #### Then apply migrations 
-bash
-Copy code
+```bash
 python manage.py makemigrations
-bash
-Copy code
+```
+```bash
 python manage.py migrate
+```
 
 
 
@@ -51,10 +51,10 @@ Run the development server:
 
 #### Finally navigate to the main project directory and start the Django development server:
 
-bash
-Copy code
-cd backend
+```bash
+cd Insightmate
 python manage.py runserver
+```
 Access the Insightmate chatbot in your web browser at http://localhost:8000.
 
 ## Technologies Used
