@@ -1,6 +1,8 @@
 # Insightmate: Chatbot with React.js and Django
 Insightmate is a self-developed chatbot project that utilizes the power of Open AI API to provide an interactive and engaging chatbot experience. This project combines the frontend framework React.js with the backend framework Django to create a fully responsive chatbot website. You can use it using [this link](https://siddhantshekhar.pythonanywhere.com/). **If website doesn't load at first time please load it again. As it is deployed on python anywhere so it has limitations as of now** 
 
+![Screenshot 2023-06-16 205749](https://github.com/Siddhant0507Shekhar/Insightmate/assets/122518146/42ffda72-7400-4da9-a769-bca8244db2b7)
+
 ## Features
 The Insightmate chatbot project offers the following features:
 
@@ -13,6 +15,8 @@ The Insightmate chatbot project offers the following features:
 * **React Frontend:** The frontend of the Insightmate chatbot is developed using React.js. It includes three main components: Navbar, Sidebar, and Chatbar. These components are connected using various React hooks, enabling smooth communication and dynamic updates.
 
 * **Django Backend:** The backend of the chatbot is built using the Django framework. It provides a robust and scalable infrastructure to handle user authentication, data storage, and API integration. The seamless API integration is achieved through the Django Rest Framework.
+
+![Screenshot 2023-06-16 205749](https://github.com/Siddhant0507Shekhar/Insightmate/assets/122518146/42ffda72-7400-4da9-a769-bca8244db2b7)
 
 ## Installation
 To run Insightmate locally, follow these steps:
